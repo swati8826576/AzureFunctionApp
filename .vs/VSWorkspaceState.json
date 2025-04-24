@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.github",
+    "\\.github\\workflows",
+    "\\FunctionApp1",
+    "\\FunctionApp1\\Properties"
+  ],
+  "SelectedNode": "\\FunctionApp1\\Program.cs",
+  "PreviewInSolutionExplorer": false
+}
